@@ -1,7 +1,7 @@
 # presentations
 Repo for simple RISE presentations
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/psychemedia/presentations/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meecc/presentations/master)
 
 The directly linked presentations listed below *should* autorun when you click the corresponding Binder button. The autorun is configured via the RISE extension settings in `.jupyter/nbconfig/rise.json`.
 
@@ -9,13 +9,13 @@ The [RISE chalkboard](https://rise.readthedocs.io/en/maint-5.5/customize.html#en
 
 ---
 
-OU Residential School, Robot Talk, July, 2019: *Whose Job Is It Anyway?* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/psychemedia/presentations/master?filepath=OUResSchool-RobotJobs%2FOU-Robot-Talk-Whose-Job-Anyway.md)
+OU Residential School, Robot Talk, July, 2019: *Whose Job Is It Anyway?* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meecc/presentations/master?filepath=OUResSchool-RobotJobs%2FOU-Robot-Talk-Whose-Job-Anyway.md)
 
 > A sideways looks at the jobs robots are taking away from us, or, erm, maybe we're complicit in giving to them?
 
 ---
 
-OpenTEL, November 2019: *Deriving Interactive, Read/Write Course Materials From OU-XML* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/psychemedia/presentations/master?filepath=openTEL_11_19%2Fopentel_nov_19.md)
+OpenTEL, November 2019: *Deriving Interactive, Read/Write Course Materials From OU-XML* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meecc/presentations/master?filepath=openTEL_11_19%2Fopentel_nov_19.md)
 
 > A quick overview of some of the things you can do when you map OU-XML onto markdown and add some Jupytext, after an early detour and recap of the past, take two, on treating OU-XML as a bit of a graph.
 
